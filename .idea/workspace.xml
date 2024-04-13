@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="417d8955-5c04-45ee-a4ec-cc9e1746f9aa" name="Changes" comment="First Hello World.">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="417d8955-5c04-45ee-a4ec-cc9e1746f9aa" name="Changes" comment="Modified the fileName to HelloWorld." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,10 +42,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Java/HelloWorld",
     "onboarding.tips.debug.path": "C:/Java/src/Main.java",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
@@ -77,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713037146918</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modified the fileName to HelloWorld.">
+      <option name="closed" value="true" />
+      <created>1713037301331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713037301331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="First Hello World." />
-    <option name="LAST_COMMIT_MESSAGE" value="First Hello World." />
+    <MESSAGE value="Modified the fileName to HelloWorld." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified the fileName to HelloWorld." />
   </component>
 </project>
