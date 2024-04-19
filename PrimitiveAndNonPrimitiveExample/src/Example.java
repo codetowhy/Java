@@ -39,7 +39,8 @@ public class Example {
         System.out.println();
         System.out.println();
 
-        //changes to Array arr will affect Array brr
+        //changes to item at index [2] of Array arr will affect Array brr
+        // because both are pointing to same memory in Heap
         arr[2] = 45;
 
         System.out.println("Items in array arr: ");
