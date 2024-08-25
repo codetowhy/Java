@@ -1,4 +1,3 @@
-import java.io.*;
 
 class GFG {
     public static void main(String[] args)
@@ -7,6 +6,8 @@ class GFG {
 
         System.out.printf("%f\n", a);
         System.out.printf("%5.3f\n", a);
-        System.out.printf("%5.2f\n", a);
+        System.out.printf("%6.3f\n", a);
+        System.out.printf("%7.2f\n", a);
+        System.out.printf("%5.1f\n", a);
     }
 }
