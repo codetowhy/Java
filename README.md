@@ -53,6 +53,12 @@ Java/
 │ ├── forInLoop.java
 │ ├── forLoop.java
 │ ├── whileLoop.java
+├── 0018. Recursion/
+│ ├── recArmstrong.java
+│ ├── recEvenOdd.java
+│ ├── recFactorial.java
+│ ├── recNumberPalindrom.java
+│ ├── recSample1.java
 ├─
 ```
 ---
@@ -92,6 +98,8 @@ Formatted output
 Taking user input via Scanner
 
 Flow Control using Loops
+
+Recursion
 
 ---
 ## 🤝 Contributing
