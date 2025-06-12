@@ -52,14 +52,25 @@ Java/
 │ ├── doWhileLoop.java
 │ ├── forInLoop.java
 │ ├── forLoop.java
-│ ├── whileLoop.java
+│ └── whileLoop.java
 ├── 0018. Recursion/
 │ ├── recArmstrong.java
 │ ├── recEvenOdd.java
 │ ├── recFactorial.java
 │ ├── recNumberPalindrom.java
-│ ├── recSample1.java
-├─
+│ └── recSample1.java
+├── 0019. Arrays/
+│ ├── 1DArray/
+│ │ ├── ArraySorting.java
+│ │ ├── DisplayPrimeNumberInArray.java
+│ │ ├── FindItemInArray.java
+│ │ ├── OneDArray.java
+│ │ ├── SumOfArrayItems.java
+│ │ └── traverseAndIndexing.java
+│ └── 2DArray/
+│   ├── MatrixProblems/
+│   │  ├── RotateMatrix.java
+│   ├── TwoDArray.java
 ```
 ---
 ## 🚀 How to Run
