@@ -69,8 +69,27 @@ Java/
 │ │ └── traverseAndIndexing.java
 │ └── 2DArray/
 │   ├── MatrixProblems/
+│   │  ├── AddTwoMatrix.java
 │   │  ├── RotateMatrix.java
-│   ├── TwoDArray.java
+│   │  ├── RotateOneStepMatrix.java
+│   │  └── TransposeMatrix.java
+│   ├── MinMax.java
+│   └── TwoDArray.java
+├── 0020. Strings/
+│   ├── PalindromeString.java
+│   ├── Pangram.java
+│   ├── ReverseString.java
+│   └── StringOperations.java
+├── 0021. Collections/
+│   ├── ArrayListSample.java
+│   ├── HashMapSample.java
+│   ├── HashSetSample.java
+│   ├── HashtableSample.java
+│   └── VectorSample.java
+└── 0022. Multithreading/
+    ├── ExtendingThread.java
+    ├── ThreadLifeCycle.java
+    └── UsingRunnable.java
 ```
 ---
 ## 🚀 How to Run
@@ -111,6 +130,12 @@ Taking user input via Scanner
 Flow Control using Loops
 
 Recursion
+
+Strings
+
+Collections
+
+Multithreading
 
 ---
 ## 🤝 Contributing
